@@ -41,10 +41,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=UmangKosrekar&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-### 🧐 Did You Know?
-
-![Random Fact](https://uselessfacts.jsph.pl/random.json?language=en)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=UmangKosrekar&icon=5&color=10)](https://visitcount.itsvg.in)
