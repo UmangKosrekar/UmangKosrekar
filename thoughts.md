@@ -48,6 +48,11 @@
 - Simple Admin Panel for chat customization
 - reference https://support.seats.io/en/
 
+### Blogs Posting Website
+- Make a simple blog posting and managing website with advance features
+- Fully AWS website
+- Reference: https://barelyenough.org/blog/2008/05/versioning-rest-web-services/
+
 # Reference Books
 
 - https://github.com/goelaakash79/Useful-Books/blob/master/Node.js-Design-Patterns.pdf
